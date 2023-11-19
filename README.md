@@ -21,3 +21,8 @@ Q2) Function to write area of hexagon given the side length.
 Q4) Encrypt and Decrypt strings as ceaser cypher
 
 ![image](https://github.com/Prahladhnc/1BM21AI086-OOP-lab/assets/116821694/224e6b61-f955-4319-b1ef-637a170ff193)
+
+
+Q5) List of all palindromes in a string
+
+![image](https://github.com/Prahladhnc/1BM21AI086-OOP-lab/assets/116821694/98d52354-b5d3-4019-b907-1e0d43a1f015)
