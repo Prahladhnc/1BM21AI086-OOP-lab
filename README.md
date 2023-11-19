@@ -16,3 +16,8 @@ Q2) Function to write area of hexagon given the side length.
  Q3)Verify email using regex
 
  ![image](https://github.com/Prahladhnc/1BM21AI086-OOP-lab/assets/116821694/5dfc3885-3fa4-476d-b0ea-e8c0a585e09e)
+
+
+Q4) Encrypt and Decrypt strings as ceaser cypher
+
+![image](https://github.com/Prahladhnc/1BM21AI086-OOP-lab/assets/116821694/224e6b61-f955-4319-b1ef-637a170ff193)
