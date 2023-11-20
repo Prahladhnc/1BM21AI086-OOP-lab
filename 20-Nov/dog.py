@@ -4,13 +4,12 @@ class Dog:
     breed="Unknown"
     dob="Unknown"
     
-    def __init__(self,name,size,age=0,breed="Unknown", dob="Unknown"):
+    def __init__(self,name,size,breed="Unknown", dob="Unknown"):
         self.name=name
         self.size=size
         self.breed=breed
-        self.age=age
         self.dob=dob
-        self.age
+
     def bark(self):
         print(self.name,": woof")
     
@@ -25,15 +24,23 @@ class Dog:
         elif n>30:
             print("Name too long")
         else:
-            newname.title()
+            newname=newname.title()
             self.name=newname
             print("Name changed from: ", old, "to ", self.name)
             
     def dog_years(self):
-        dogage=self.age * 7
-        print("Dog age of ", self.name, "is", dogage)
+        if self.dob=="Unknown":
+            print("Age Unknown")
+        else:
+            ag=self.dob[-4:]
+            ag=int(ag)
+            
+            ag=2023-ag
+            print(ag)
+            dogage=ag* 7
+            print("Dog age of ", self.name, "is", dogage)
         
-dog=Dog("Tomy", "large",8, "Labrador")
+dog=Dog("Tomy", "large", "Labrador", "25/09/2019")
 print(dog.breed)
 dog.bark()
 dog.get_name()
