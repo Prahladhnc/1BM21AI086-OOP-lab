@@ -12,3 +12,7 @@ Q2)Create class birthday, increment age
 Q3)Create class song, give lyrics as list, print line by line:
 
 ![image](https://github.com/Prahladhnc/1BM21AI086-OOP-lab/assets/116821694/d0d48d6f-eacd-4575-b945-dbcb71323724)
+
+Q4) class dog, 4 attributes, 4 methods
+
+![image](https://github.com/Prahladhnc/1BM21AI086-OOP-lab/assets/116821694/2558b3a3-5cec-4593-819a-a6c7a333f703)
