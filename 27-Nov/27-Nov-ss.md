@@ -12,3 +12,7 @@ Q2) Use classmethod to count the number of object instances
 Q3)Create 3 complex numbers, where 3rd is sum of first 2
 
 ![image](https://github.com/Prahladhnc/1BM21AI086-OOP-lab/assets/116821694/814f734a-fc6f-4acc-a9d0-0f9bbad24d0e)
+
+Q4)Create a class number, with one variable of Double datatype, and define methods to check positive, negative, 0, prime, and compute square, reverse, factorial etc
+
+![image](https://github.com/Prahladhnc/1BM21AI086-OOP-lab/assets/116821694/5b0feed8-1fbc-41c4-bc88-b8ad203082ff)
